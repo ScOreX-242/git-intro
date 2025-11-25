@@ -1,2 +1,0 @@
-cat /dev/null > message.txt
-echo "Message from feature branch" >> message.txt
